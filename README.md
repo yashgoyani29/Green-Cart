@@ -130,16 +130,13 @@ npm run server
 
 ## 🚀 Usage
 
-• Visit the homepage to browse products
-
-• Add products to cart
-
-• View cart and checkout
-
-• (Future) User login & order management
+- Visit the homepage to browse products
+- Add products to cart
+- View cart and checkout
+- (Future) User login & order management
 
 ## 🛣️ Roadmap
 
-✅ Frontend (React + Vite)
-✅ Backend (Node + Express + Mongodb)
-🚀 Deployment (Netlify + Render/Heroku + Vercel)
+- ✅ Frontend (React + Vite)
+- ✅ Backend (Node + Express + Mongodb)
+- 🚀 Deployment (Netlify + Render/Heroku + Vercel)
